@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\pelin\OneDrive\Belgeler\gitCpp\152120211037_inClass\152120211037_inClass\Kaynak.cpp(23,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  152120211037_inClass.vcxproj -> C:\Users\pelin\OneDrive\Belgeler\gitCpp\152120211037_inClass\x64\Debug\152120211037_inClass.exe
